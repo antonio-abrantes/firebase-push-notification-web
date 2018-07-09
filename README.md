@@ -1,6 +1,6 @@
 # Push Notification Web com Firebase
 
-## Comandos npm necessários:
+## Comandos necessários:
 <ul>
     <li>npm install -g firebase-tools</li>
     <li>firebase login</li>

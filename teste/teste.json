@@ -1,0 +1,9 @@
+{
+    "notification": {
+        "title": "Teste Push Firebase",
+        "body": "Push notification no Firebase está funcionando",
+        "click_action": "http://localhost:5000/",
+        "icon": "http://localhost:5000/imgs/icon.png"
+    },
+    "to": "<token do usuário>"
+}
